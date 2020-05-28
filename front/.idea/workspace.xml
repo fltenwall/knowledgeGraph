@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5418f41d-4af9-4b3c-8d25-ba476dd42fda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YQhx0TUU7HFRelWJh5HKyiAlWL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="net.intellij.plugins.sexyeditor.SexyEditorConfigurable" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/Home" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5418f41d-4af9-4b3c-8d25-ba476dd42fda" name="Default Changelist" comment="" />
+      <created>1582880967048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582880967048</updated>
+      <workItem from="1582880968874" duration="1274000" />
+      <workItem from="1584009284599" duration="1656000" />
+      <workItem from="1584081085650" duration="8708000" />
+      <workItem from="1584115140678" duration="136000" />
+      <workItem from="1585269902307" duration="14849000" />
+      <workItem from="1585615179405" duration="15673000" />
+      <workItem from="1585701514545" duration="15380000" />
+      <workItem from="1585730798876" duration="3288000" />
+      <workItem from="1585787818325" duration="21404000" />
+      <workItem from="1585874476570" duration="5362000" />
+      <workItem from="1586064240046" duration="285000" />
+      <workItem from="1586144649529" duration="3662000" />
+      <workItem from="1586220369253" duration="16129000" />
+      <workItem from="1586308036576" duration="7492000" />
+      <workItem from="1586393379125" duration="6567000" />
+      <workItem from="1586479802950" duration="14591000" />
+      <workItem from="1586618587264" duration="692000" />
+      <workItem from="1586698395825" duration="17058000" />
+      <workItem from="1586776570927" duration="332000" />
+      <workItem from="1586868496113" duration="673000" />
+      <workItem from="1586911140104" duration="1565000" />
+      <workItem from="1587050655330" duration="969000" />
+      <workItem from="1587362951911" duration="9448000" />
+      <workItem from="1587429328529" duration="6866000" />
+      <workItem from="1587517300836" duration="3744000" />
+      <workItem from="1587524308631" duration="3824000" />
+      <workItem from="1587604341627" duration="4869000" />
+      <workItem from="1587691639555" duration="17168000" />
+      <workItem from="1587916807466" duration="5893000" />
+      <workItem from="1587948257955" duration="14851000" />
+      <workItem from="1588139474280" duration="11029000" />
+      <workItem from="1588729185273" duration="6989000" />
+      <workItem from="1588845151966" duration="1443000" />
+      <workItem from="1588898964381" duration="13183000" />
+      <workItem from="1588991092564" duration="4452000" />
+      <workItem from="1589009979642" duration="1402000" />
+      <workItem from="1589782406448" duration="4178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="91" key="SettingsEditor" timestamp="1589783355584">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="229" y="74" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586955509890" />
+    <state x="229" y="91" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1589783355584" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587922794195">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587922794195" />
+  </component>
+</project>

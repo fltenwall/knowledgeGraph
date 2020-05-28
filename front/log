@@ -1,0 +1,16 @@
+2020-04-08T08:54:17.495+0800 I  CONTROL  [main] Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'
+2020-04-08T08:54:17.502+0800 W  ASIO     [main] No TransportLayer configured during NetworkInterface startup
+2020-04-08T08:54:17.504+0800 I  CONTROL  [initandlisten] MongoDB starting : pid=674 port=27017 dbpath=data/db 64-bit host=xuanlingdeMacBook-Pro.local
+2020-04-08T08:54:17.504+0800 I  CONTROL  [initandlisten] db version v4.2.5
+2020-04-08T08:54:17.504+0800 I  CONTROL  [initandlisten] git version: 2261279b51ea13df08ae708ff278f0679c59dc32
+2020-04-08T08:54:17.504+0800 I  CONTROL  [initandlisten] allocator: system
+2020-04-08T08:54:17.504+0800 I  CONTROL  [initandlisten] modules: none
+2020-04-08T08:54:17.505+0800 I  CONTROL  [initandlisten] build environment:
+2020-04-08T08:54:17.505+0800 I  CONTROL  [initandlisten]     distarch: x86_64
+2020-04-08T08:54:17.505+0800 I  CONTROL  [initandlisten]     target_arch: x86_64
+2020-04-08T08:54:17.505+0800 I  CONTROL  [initandlisten] options: { storage: { dbPath: "data/db" }, systemLog: { destination: "file", path: "log" } }
+2020-04-08T08:54:17.505+0800 I  STORAGE  [initandlisten] exception in initAndListen: NonExistentPath: Data directory data/db not found., terminating
+2020-04-08T08:54:17.505+0800 I  NETWORK  [initandlisten] shutdown: going to close listening sockets...
+2020-04-08T08:54:17.505+0800 I  -        [initandlisten] Stopping further Flow Control ticket acquisitions.
+2020-04-08T08:54:17.505+0800 I  CONTROL  [initandlisten] now exiting
+2020-04-08T08:54:17.505+0800 I  CONTROL  [initandlisten] shutting down with code:100

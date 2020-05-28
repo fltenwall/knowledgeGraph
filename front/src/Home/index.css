@@ -1,0 +1,32 @@
+.layout h1 {
+    text-align: center;
+}
+.layout a:-webkit-any-link {
+    text-decoration: none;
+}
+.card {
+    display: flex;
+    margin: auto;
+    /*background: #212121;*/
+}
+.card-item {
+    flex: 1;
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    text-align: center;
+}
+.card-text {
+    line-height: 200px;
+    font-size: 25px;
+}
+body {
+    background: #e0e0e0 !important;
+}
+.container {
+    margin: auto;
+    background: #fff;
+    width: 900px;
+
+    margin: 10px auto;
+}

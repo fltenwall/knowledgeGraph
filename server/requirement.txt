@@ -1,0 +1,5 @@
+Django==2.1.11
+djangorestframework==3.10
+py2neo==4.1.0
+django-cors-headers==2.5.2
+
