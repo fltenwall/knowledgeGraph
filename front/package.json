@@ -13,7 +13,7 @@
     "@antv/graphin-components": "^1.0.3",
     "@types/classnames": "^2.2.9",
     "antd": "^3.23.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chinese-random-name": "^1.0.0",
     "classnames": "^2.2.6",
     "copy-to-clipboard": "^3.2.0",
