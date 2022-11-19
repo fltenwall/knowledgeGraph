@@ -42,7 +42,7 @@
     "deepmerge": "^4.1.1",
     "file-loader": "^4.2.0",
     "gh-pages": "^2.1.1",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "mini-css-extract-plugin": "^0.8.0",
@@ -54,7 +54,7 @@
     "typescript": "^3.6.4",
     "webpack": "^4.41.0",
     "webpack-bundle-analyzer": "^3.6.0",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.1"
   },
   "keywords": [],
